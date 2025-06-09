@@ -23,6 +23,11 @@ Sell Price
 Buy Price  
 1g 82s 13c
 
+## **Example from Discord: The Bifrost**
+
+![My Image](./example_bifrost_discord.png)
+
+
 ## **Features**
 
 * **Detailed Item Information**: Fetches item rarity, type, required level, and description.  
